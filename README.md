@@ -1,4 +1,4 @@
-# F1-Analytics-AI
+# F1 Stats Master
 This is a SQL Agent AI tool built on langchain that can use natural language through an LLM to query a database and return relevant F1 race and qualifying statistics.
 
 This project was written in Google Collab to take advantage of the free GPU resources but had to be refactored to use Gemini Pro
